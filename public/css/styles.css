@@ -27,10 +27,13 @@ header a {
 }
 
 input {
-    padding: 4px;
+    padding: 6px;
     
 }
 
 button {
-    padding: 3px;
+    padding: 5px;
+    border-radius: 0px;
+    background-color: slategray;
+    color: white;
 }
